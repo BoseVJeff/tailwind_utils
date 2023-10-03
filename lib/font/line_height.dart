@@ -1,0 +1,3 @@
+class LineHeight {
+  const LineHeight();
+}
